@@ -1,5 +1,4 @@
 apple
-sunshine
 football
 password
 monkey
